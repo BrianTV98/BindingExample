@@ -1,0 +1,2 @@
+rootProject.name='BindingAdapter'
+include ':app'
